@@ -2,6 +2,10 @@
 
 ## Rundown Training
 
+### Waktu Training
+
+Jumat s/d Minggu, 09:00 - 16:00
+
 ### Hari 1: 
 
 ##### 1. Review Intalasi & Apa itu Fulstack. 
